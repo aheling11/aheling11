@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on [Tencent](www.tencent.com)
+- 🌱 I’m currently learning opentelemetry 
 <!--
 **aheling11/aheling11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
